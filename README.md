@@ -1,6 +1,6 @@
 # boxing_images
 
-A flutter widget for boxing images.
+A flutter widget for boxing images with slider.
 
 ## Features
 
@@ -16,5 +16,5 @@ To use this package, add boxing_images as a dependency in your pubspec.yaml file
 Minimal example:
 
 ```dart
-     BoxingImages()
+     MostafaBoxingImages()
 ```
